@@ -19,4 +19,19 @@
 > - Use la compilación `gcc codigo.c -o codigo`.
 > - Declarar prototipo de cada función.
 > ***
-> ## 📒Clase 2 — 12/08/2025
+> ## 📒Clase 2 — 18/08/2025
+> ### **Ejercicio:**
+> - Realice un programa en C que ordene las letras de un texto de manera ascendente.
+> ```
+> Ingrese un texto: FZJYQKOMWUXVCPRSTBHLADGNIE
+> ```
+> ### **Requisitos**
+> - El texto tiene como máximo 30 caracteres.
+> - Debe construir dos funciones.
+> - Cada función debe ser llamada desde la función principal ( **int main()** )
+> - Use la compilación `gcc codigo.c -o codigo`.
+> - Declarar prototipo de cada función.
+> ***
+> ## 📒Clase 3 — 25/08/2025
+> ### **Ejercicio:**
+> -
